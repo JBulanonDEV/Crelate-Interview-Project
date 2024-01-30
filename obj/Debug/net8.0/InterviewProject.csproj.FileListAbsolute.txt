@@ -1,0 +1,14 @@
+/Users/jbulanon/Desktop/InterviewProject/bin/Debug/net8.0/InterviewProject
+/Users/jbulanon/Desktop/InterviewProject/bin/Debug/net8.0/InterviewProject.deps.json
+/Users/jbulanon/Desktop/InterviewProject/bin/Debug/net8.0/InterviewProject.runtimeconfig.json
+/Users/jbulanon/Desktop/InterviewProject/bin/Debug/net8.0/InterviewProject.dll
+/Users/jbulanon/Desktop/InterviewProject/bin/Debug/net8.0/InterviewProject.pdb
+/Users/jbulanon/Desktop/InterviewProject/obj/Debug/net8.0/InterviewProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jbulanon/Desktop/InterviewProject/obj/Debug/net8.0/InterviewProject.AssemblyInfoInputs.cache
+/Users/jbulanon/Desktop/InterviewProject/obj/Debug/net8.0/InterviewProject.AssemblyInfo.cs
+/Users/jbulanon/Desktop/InterviewProject/obj/Debug/net8.0/InterviewProject.csproj.CoreCompileInputs.cache
+/Users/jbulanon/Desktop/InterviewProject/obj/Debug/net8.0/InterviewProject.dll
+/Users/jbulanon/Desktop/InterviewProject/obj/Debug/net8.0/refint/InterviewProject.dll
+/Users/jbulanon/Desktop/InterviewProject/obj/Debug/net8.0/InterviewProject.pdb
+/Users/jbulanon/Desktop/InterviewProject/obj/Debug/net8.0/InterviewProject.genruntimeconfig.cache
+/Users/jbulanon/Desktop/InterviewProject/obj/Debug/net8.0/ref/InterviewProject.dll
